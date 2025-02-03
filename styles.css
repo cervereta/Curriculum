@@ -1,0 +1,69 @@
+header {
+    background-color: #a096ea;
+    padding: 0.5%;
+    text-align: center;
+    
+}
+
+
+header h1 {
+    color: #79fd6e;
+    font-family: "Kumar One", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+    text-align: center;
+    text-shadow: 2px 2px 4px grey;
+}
+
+header img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+    height: 15%;
+    border-radius: 50%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+table {
+    background-color: rgb(199, 242, 119);
+    border-collapse: collapse;
+    width: 90%;
+    margin: 20px auto; /* Center the table */
+    border: 3px solid black;
+    box-shadow: 5px 5px 10px grey;
+}
+
+table th, table td {
+    
+    border: 2px solid rgb(27, 13, 107);
+    padding: 8px;
+    text-align: center;
+    font-size: 20px;
+    
+}
+
+h1 {
+    text-align: center;
+    font-family: "Lilita One", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: blue;
+}
+
+.parrilla-1 {
+    border: 2px solid black;
+    display: inline-block;
+    vertical-align: top;
+    margin: 2%;
+}
+
+.parrilla-1 img {
+    width: 100px;
+    height: 100px;
+}
+
+
+
