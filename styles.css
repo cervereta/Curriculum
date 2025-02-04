@@ -63,15 +63,17 @@ h2 {
     -webkit-text-fill-color: transparent;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); /* Sombra del texto */
     border: 2px solid #feb47b; /* Borde */
-    margin: 35%;
+    margin: 20px auto; /* Adjust margin to reduce spacing */
     padding: 10px;
     border-radius: 10px;
+    width: fit-content; /* Center the h2 */
 }
 
 .container {
     display: flex;
-    justify-content: space-between;
-    margin: 20px;
+    justify-content: center; /* Center the divs */
+    margin: 20px auto; /* Adjust margin to reduce spacing */
+    width: fit-content; /* Center the container */
 }
 
 .parrilla-1 {
@@ -106,7 +108,7 @@ dl {
     padding: 20px;
     border-radius: 10px;
     box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.1);
-    margin: 20px auto;
+    margin: 20px auto; /* Adjust margin to reduce spacing */
     width: 70%;
 }
 
