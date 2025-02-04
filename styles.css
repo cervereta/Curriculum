@@ -1,3 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
 header {
     background-color: #332c68;
     padding: 0.5%;
@@ -124,5 +131,18 @@ dl dd {
     margin-left: 30px !important;
     color: #666;
     margin-bottom: 10px;
+}
+
+footer {
+    background-color: #332c68;
+    padding: 0.5%;
+    text-align: center;
+    color: #ffffff;
+    font-family: "Dancing Script", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    text-align: center;
+    text-shadow: 2px 2px 4px grey;
 }
 
